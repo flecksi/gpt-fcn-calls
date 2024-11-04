@@ -158,5 +158,3 @@ tzdata==2024.2
     # via pandas
 urllib3==2.2.3
     # via requests
-watchdog==6.0.0
-    # via gpt-fcn-calls (pyproject.toml)
